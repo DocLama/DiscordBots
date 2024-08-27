@@ -19,6 +19,8 @@ L'objectif de ce projet est de mettre à l'épreuve mes compétences en programm
 Casse_Noix est idéal pour ajouter une dose de divertissement à vos serveurs Discord, tout en offrant une grande flexibilité dans la personnalisation des interactions.
 
 
+
+
 ### 2. APOD_Bot
 
 **APOD_Bot** est un bot Discord qui vous connecte chaque jour avec la beauté et la grandeur de l'univers en publiant l'**Astronomy Picture of the Day (APOD)**, directement sur votre serveur Discord. APOD est une initiative de la NASA qui présente quotidiennement une nouvelle image ou photographie de l'espace accompagnée d'une courte description.
