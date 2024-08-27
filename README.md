@@ -2,7 +2,7 @@
 
 # Casse_Noix
 
-**Casse_Noix** est un bot Discord amusant et personnalisable qui ajoute une touche d'humour à vos discussions. Son fonctionnement est simple : il réagit automatiquement à certaines phrases ou expressions avec une réponse prédéfinie. Par exemple, si une phrase se termine par "quoi", le bot répondra automatiquement "feur".
+**Casse_Noix** est un bot Discord amusant et personnalisable qui ajoute une touche d'humour à vos discussions. Son fonctionnement est simple : il réagit automatiquement à certaines phrases ou expressions avec une réponse prédéfinie. Par exemple, si une phrase se termine par "quoi", le bot répondra automatiquement "feur" ou si une phrase se termine par "hein", le bot répondra automatiquement "deux".
 
 ## Fonctionnalités principales :
 
