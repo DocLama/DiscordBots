@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "trigger": "quoi",
+        "response": "feur"
+    },
+    {
+        "id": 2,
+        "trigger": "sal",
+        "response": "arabe"
+    },
+    {
+        "id": 3,
+        "trigger": "salle",
+        "response": "arabe"
+    },
+    {
+        "id": 5,
+        "trigger": "nom",
+        "response": "bril"
+    },
+    {
+        "id": 6,
+        "trigger": "oui",
+        "response": "stiti"
+    },
+    {
+        "id": 8,
+        "trigger": "coup",
+        "response": "franc"
+    },
+    {
+        "id": 8,
+        "trigger": "ouais",
+        "response": "stern"
+    },
+    {
+        "id": 8,
+        "trigger": "hein",
+        "response": "deux"
+    },
+    {
+        "id": 9,
+        "trigger": "casse",
+        "response": "couilles"
+    },
+    {
+        "id": 10,
+        "trigger": "dit",
+        "response": "ctionnaire"
+    },
+    {
+        "id": 11,
+        "trigger": "ah",
+        "response": "b"
+    },
+    {
+        "id": 12,
+        "trigger": "ha",
+        "response": "b"
+    },
+    {
+        "id": 13,
+        "trigger": "o\u00f9",
+        "response": "ici"
+    },
+    {
+        "id": 14,
+        "trigger": "ping",
+        "response": "pong"
+    },
+    {
+        "id": 15,
+        "trigger": "comment",
+        "response": "taire"
+    },
+    {
+        "id": 16,
+        "trigger": "comment",
+        "response": "taire"
+    }
+]
