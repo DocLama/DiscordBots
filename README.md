@@ -19,6 +19,21 @@ L'objectif de ce projet est de mettre à l'épreuve mes compétences en programm
 Casse_Noix est idéal pour ajouter une dose de divertissement à vos serveurs Discord, tout en offrant une grande flexibilité dans la personnalisation des interactions.
 
 
+### 2. APOD_Bot
+
+**APOD_Bot** est un bot Discord qui vous connecte chaque jour avec la beauté et la grandeur de l'univers en publiant l'**Astronomy Picture of the Day (APOD)**, directement sur votre serveur Discord. APOD est une initiative de la NASA qui présente quotidiennement une nouvelle image ou photographie de l'espace accompagnée d'une courte description.
+
+#### Fonctionnalités principales :
+
+- **Publication quotidienne** : APOD_Bot publie automatiquement l'image du jour issue de la collection APOD de la NASA dans un channel dédié.
+- **Channel requis** : Par défaut, le bot publie les images dans un channel nommé `#apod`. Si ce channel n'existe pas, il faudra en créer un pour que le bot fonctionne correctement. Cette condition est facilement modifiable dans le code si vous souhaitez utiliser un autre nom de channel.
+- **Descriptions détaillées** : Chaque image est accompagnée d'une description qui explique le contexte, l'objet céleste ou le phénomène représenté, pour enrichir votre culture astronomique.
+- **Simple à utiliser** : Il suffit d'inviter le bot sur votre serveur Discord, de s'assurer que le channel `#apod` est présent, et il se chargera de poster chaque jour la nouvelle image astronomique.
+
+APOD_Bot est parfait pour les passionnés d'astronomie et pour ceux qui souhaitent apporter un peu d'émerveillement cosmique à leur communauté Discord.
+
+
+
 ## Contribuer
 
 Comme chaque bot a été créé en une heure, il est possible qu'ils contiennent des bugs ou des fonctionnalités incomplètes. N'hésitez pas à contribuer en proposant des améliorations ou en corrigeant des erreurs. Toute contribution est la bienvenue !
